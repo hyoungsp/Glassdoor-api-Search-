@@ -1,7 +1,5 @@
-// MPCS 51043; Swift Programming
-// Final Project
 // Hyoungsun (Stanley Park)
-// hyoungsun@uchicago.edu
+
 
 
 import Foundation
